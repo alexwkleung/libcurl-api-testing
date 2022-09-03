@@ -1,6 +1,5 @@
 #include "curl/curl.h" //libcurl
 #include <stdio.h>
-#include <unistd.h> //posix os api
 
 void curl() {
     CURL *curl;
